@@ -1,0 +1,6 @@
+ExampleCodesFromAuthor/
+data/
+others/
+.ipynb_checkpoints/
+.DS_Store
+__pycache__
